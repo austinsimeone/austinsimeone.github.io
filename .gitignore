@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-.Rproj
+.github.io.Rproj
+.DS_Store
