@@ -3,4 +3,4 @@ title: Austin Simeone Page
 email: austinsimeone94@gmail.com
 
 # Build Settings
-theme: jekyll-theme-leap-day
+remote_theme: y7kim/agency-jekyll-theme
